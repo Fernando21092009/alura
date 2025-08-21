@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(212,172,228);
+    background-color: rgb(28, 214, 228);
  color: black;   
 }
 section{
@@ -13,6 +13,10 @@ justify-content: center;
 margin-right: 48px;
 }
 ing{
-he
-
-
+height: 200px;
+}
+.chamada-video(
+display:flex;
+overflow:flex;
+gap: 10px;
+}
