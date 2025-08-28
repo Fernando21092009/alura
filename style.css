@@ -1,22 +1,22 @@
 body {
-    background-color: rgb(35, 40, 41);
- color: rgb(48, 226, 102);   
+    background-color: rgb(212, 172, 25);
+ color: rgb(241, 11, 11);   
 }
 section{
-background-color: rgb(24, 21, 209);
+background-color:rgb(19, 19, 20);
 padding-top: 80px;
 padding-top: 80px;
 display: flex;
 justify-content: center;
-{
+}
 .chamada-texto(
-margin-right: 48px;
+margin-right: 40px;
 }
 ing{
 height: 200px;
 }
-.chamada-video(
+.chamada-video{
 display:flex;
-overflow:flex;
+overflow-X:auto;
 gap: 10px;
 }
