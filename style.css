@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(28, 214, 228);
- color: black;   
+    background-color: rgb(35, 40, 41);
+ color: rgb(48, 226, 102);   
 }
 section{
-background-color: aquamarine;
-padding-top: 88px;
-padding-top: 88px;
+background-color: rgb(24, 21, 209);
+padding-top: 80px;
+padding-top: 80px;
 display: flex;
 justify-content: center;
 {
